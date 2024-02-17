@@ -1,0 +1,35 @@
+.order{
+color: black;
+background-color: hsl(51, 100%, 50%);
+}
+.pig{
+    background-color: rgb(255, 215, 0);
+}
+.order:hover{
+    background-color: black;
+    color:rgb(255, 215, 0) ;
+}
+.footer{
+    color:hsl(51, 100%, 50%) ;
+    background-color: black;
+}
+.marquee{
+    color:hsl(51, 100%, 50%) ;
+    background-color: black;
+}
+.email:hover{
+    color: black;
+background-color: hsl(51, 100%, 50%);
+}
+.email{
+    background-color: black;
+    color:rgb(255, 215, 0) ;
+}
+.card1{
+    background-color: rgb(255, 215, 0);
+   
+}
+.image{
+    height: 300px;
+    width: 70%;
+}
