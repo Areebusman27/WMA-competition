@@ -1,6 +1,8 @@
 .order{
 color: black;
 background-color: hsl(51, 100%, 50%);
+border-radius: 0px;
+border-color: black;
 }
 .pig{
     background-color: rgb(255, 215, 0);
@@ -24,12 +26,47 @@ background-color: hsl(51, 100%, 50%);
 .email{
     background-color: black;
     color:rgb(255, 215, 0) ;
+    border-radius: 0px;
+    border-color:rgb(255, 215, 0) ;
 }
 .card1{
     background-color: rgb(255, 215, 0);
+    border: none;
    
 }
 .image{
     height: 300px;
     width: 70%;
 }
+.card2{
+    height:550px;
+    background-color:  rgb(255, 215, 0);
+ 
+    width:100% !important;
+    
+}
+.but2{
+    background-color: rgb(255, 215, 0);
+    color: black;
+    border-radius: 0px;
+    border-color: black;
+   
+}
+.but2:hover{
+    background-color: black;
+    color:rgb(255, 215, 0) ;
+
+}
+.third{
+    background-color: rgb(255, 215, 0);}
+
+    .last{
+        margin: 60px;
+    }
+    .LAST1{
+        margin: 7PX;
+    }
+    .head{
+        font-size: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
